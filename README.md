@@ -7,11 +7,17 @@ This system was programmed and designed solely by Patrick Nercessian.
 This system includes a Main System with the following features (and many more sub-features):
 
   Document Creation: Sales Contracts, Purchase Orders, Calculation Sheets, Commercial Invoices, Packing Lists
+  
   File System Navigation based on Order Numbers
+  
   Client Information Storage and Utilization in Documents
+  
   Factory Information Storage and Utilization in Documents
+  
   Record Keeping of All Orders and their Information
+  
   Distribution Log: Search through all models from all orders based on any combination of search criteria
+  
   Mass Email Leads: Mass Email potential customer leads with built in Email capabilities.
  
  
