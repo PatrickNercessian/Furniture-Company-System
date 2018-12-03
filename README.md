@@ -5,12 +5,19 @@ This system was programmed and designed solely by Patrick Nercessian.
 *DISCLAIMER:* Because I was forced to remove all real client and factory information, the Distribution Log and possibly the Order Log do not work with this GitHub file. In reality, all features work correctly.
 
 This system includes a Main System with the following features (and many more sub-features):
+
   Document Creation:
+  
     Sales Contracts
+    
     Purchase Orders
+    
     Calculation Sheets
+    
     Commercial Invoices
+    
     Packing Lists
+    
  File System Navigation based on Order Numbers
  Client Information Storage and Utilization in Documents
  Factory Information Storage and Utilization in Documents
