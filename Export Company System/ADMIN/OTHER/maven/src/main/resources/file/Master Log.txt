@@ -1,0 +1,338 @@
+
+07/11/2018 02:51:01 - karam - Creating New Order...
+(SC#5791)
+(SC#5791)
+Order Created
+
+07/11/2018 02:51:14 - karam - Main System Exited
+Waiting for Email Thread to die...
+Order Created
+Thread has died.
+Waiting for Email Thread to die...
+Thread has died.
+
+07/11/2018 03:06:41 - Arthur - Main System Launched
+
+07/11/2018 03:07:34 - Arthur - Main System Exited
+
+07/11/2018 03:08:50 - Arthur - Main System Launched
+
+07/11/2018 03:10:04 - Arthur - Main System Exited
+
+07/11/2018 03:46:53 - Audrey Lasrado - Main System Launched
+
+07/11/2018 04:09:29 - Audrey Lasrado - Main System Exited
+
+07/11/2018 04:48:45 - Audrey Lasrado - Main System Exited
+
+07/11/2018 04:53:36 - Audrey Lasrado - Main System Launched
+
+07/12/2018 08:41:58 - Arthur - Main System Launched
+
+07/12/2018 08:49:28 - Arthur - Main System Launched
+
+07/12/2018 08:49:30 - Arthur - Main System Exited
+
+07/12/2018 08:52:14 - Arthur - Main System Exited
+
+07/12/2018 08:55:29 - Arthur - Main System Launched
+
+07/12/2018 09:10:03 - Traci  - Main System Launched
+
+07/12/2018 09:10:39 - Traci  - Creating New Order...
+(SC#6088)
+Order Created
+
+07/12/2018 09:10:45 - Traci  - Main System Exited
+
+07/12/2018 09:16:47 - Traci  - Main System Launched
+
+07/12/2018 09:20:36 - Traci  - Main System Exited
+
+07/12/2018 09:40:27 - Arthur - Creating New Order...
+(SC#6089)
+Order Created
+
+07/12/2018 09:40:34 - Arthur - Main System Exited
+
+07/12/2018 09:43:50 - Arthur - Main System Launched
+
+07/12/2018 09:44:09 - Arthur - Creating New Order...
+(SC#6090)
+
+07/12/2018 09:44:14 - Arthur - Main System Exited
+Order Created
+
+07/12/2018 09:44:56 - Traci  - Main System Launched
+
+07/12/2018 09:48:38 - Traci  - Creating New Order...
+(SC#6091)
+Order Created
+
+07/12/2018 09:48:42 - Traci  - Main System Exited
+
+07/12/2018 10:25:13 - Arthur - Main System Launched
+
+07/12/2018 10:26:34 - Arthur - Creating New Order...
+(SC#5496)
+
+07/12/2018 10:26:42 - Arthur - Main System Exited
+Order Created
+
+07/12/2018 10:37:06 - Audrey Lasrado - Main System Launched
+
+07/12/2018 10:39:31 - Arthur - Main System Launched
+
+07/12/2018 10:39:43 - Arthur - Confirming Sales Contract #5496...
+Sales Contract #5496 has been CONFIRMED
+
+07/12/2018 10:39:57 - Arthur - Assigning EHF#s...
+EHF 16667 assigned to SC#5496
+EHF#'s have been assigned.
+
+07/12/2018 10:49:04 - Arthur - Booking Sales Contract #5496...
+Sales Contract #5496 is now in BOOKING
+
+07/12/2018 11:02:14 - Traci  - Main System Launched
+
+07/12/2018 11:02:26 - Traci  - Main System Exited
+
+07/12/2018 11:13:26 - Traci  - Main System Launched
+
+07/12/2018 11:22:46 - Audrey Lasrado - Main System Exited
+
+07/12/2018 11:23:45 - Arthur - Booking Sales Contract #6042...
+ERROR: BOOKING FAILED
+
+07/12/2018 11:24:07 - Arthur - Booking Sales Contract #6042...
+Sales Contract #6042 is now in BOOKING
+
+07/12/2018 11:24:14 - Arthur - Booking Sales Contract #6044...
+Sales Contract #6044 is now in BOOKING
+
+07/12/2018 11:26:13 - Arthur - Main System Exited
+
+07/12/2018 11:36:17 - BJ - Main System Launched
+
+07/12/2018 11:36:23 - BJ - Main System Exited
+
+07/12/2018 11:50:50 - Traci  - Adding New Client...
+Added Client "OMITTED" to Database.
+
+07/12/2018 11:58:29 - Arthur - Main System Launched
+
+07/12/2018 12:02:13 - Traci  - Creating New Order...
+(SC#6092)
+Order Created
+
+07/12/2018 12:02:16 - Traci  - Main System Exited
+
+07/12/2018 12:02:18 - Arthur - Updating Client OMITTED...
+Updated Client "OMITTED" in Database.
+
+07/12/2018 12:02:25 - Arthur - Main System Exited
+
+07/12/2018 12:45:30 - Traci  - Main System Launched
+
+07/12/2018 01:19:24 - Traci  - Booking Sales Contract #5312...
+Sales Contract #5312 is now in BOOKING
+
+07/12/2018 01:19:30 - Traci  - Main System Exited
+
+07/12/2018 01:22:03 - Traci  - Main System Launched
+
+07/12/2018 01:36:02 - Traci  - Main System Exited
+
+07/12/2018 01:53:01 - Audrey Lasrado - Main System Launched
+
+07/12/2018 01:53:23 - Audrey Lasrado - Main System Exited
+
+07/12/2018 02:10:54 - Traci  - Main System Launched
+
+07/12/2018 02:15:42 - Traci  - Creating New Order...
+(SC#6093)
+Order Created
+
+07/12/2018 02:15:47 - Traci  - Main System Exited
+
+07/12/2018 02:25:52 - Arthur - Main System Launched
+
+07/12/2018 02:26:23 - Arthur - Updating Client OMITTED...
+Updated Client "OMITTED" in Database.
+
+07/12/2018 02:26:27 - Arthur - Main System Exited
+
+07/12/2018 02:50:14 - Traci  - Main System Launched
+
+07/12/2018 03:24:40 - Traci  - Main System Launched
+
+07/12/2018 03:24:43 - Traci  - Main System Exited
+
+07/12/2018 03:31:59 - Traci  - Confirming Sales Contract #6061...
+Sales Contract #6061 has been CONFIRMED
+
+07/12/2018 03:32:53 - Traci  - Main System Exited
+
+07/12/2018 04:13:21 - Audrey Lasrado - Main System Launched
+
+07/12/2018 04:13:34 - Audrey Lasrado - Main System Exited
+
+07/12/2018 05:32:50 - Audrey Lasrado - Main System Launched
+
+07/12/2018 05:47:16 - Audrey Lasrado - Main System Exited
+
+07/12/2018 05:51:41 - Audrey Lasrado - Main System Launched
+
+07/12/2018 06:12:48 - Audrey Lasrado - Main System Launched
+
+07/12/2018 06:17:05 - Audrey Lasrado - Main System Exited
+
+07/12/2018 06:17:19 - Audrey Lasrado - Main System Exited
+
+07/12/2018 06:47:51 - Audrey Lasrado - Main System Launched
+
+07/12/2018 06:49:07 - Audrey Lasrado - Main System Exited
+
+07/13/2018 09:06:59 - Traci  - Main System Launched
+
+07/13/2018 09:08:34 - Traci  - Booking Sales Contract #5529...
+Sales Contract #5529 is now in BOOKING
+
+07/13/2018 09:08:40 - Traci  - Main System Exited
+
+07/13/2018 09:15:02 - Traci  - Main System Launched
+
+07/13/2018 09:15:13 - Traci  - Booking Sales Contract #5403...
+Sales Contract #5403 is now in BOOKING
+
+07/13/2018 09:15:19 - Traci  - Main System Exited
+
+07/13/2018 09:15:58 - Traci  - Main System Launched
+
+07/13/2018 09:18:50 - Arthur - Main System Launched
+
+07/13/2018 09:22:47 - Arthur - Main System Exited
+
+07/13/2018 09:48:33 - Traci  - Main System Launched
+
+07/13/2018 09:54:28 - Traci  - Main System Exited
+
+07/13/2018 10:17:30 - Arthur - Main System Launched
+
+07/13/2018 10:17:59 - Arthur - Confirming Sales Contract #6086...
+Sales Contract #6086 has been CONFIRMED
+
+07/13/2018 10:18:14 - Arthur - Confirming Sales Contract #6086...
+Sales Contract #6086 has been CONFIRMED
+
+07/13/2018 10:18:38 - Arthur - Assigning EHF#s...
+EHF 16843 assigned to SC#6086
+
+07/13/2018 10:19:12 - Arthur - Assigning EHF#s...
+
+07/13/2018 10:32:29 - Traci  - Main System Exited
+
+07/13/2018 10:33:04 - Office - Main System Launched
+
+07/13/2018 10:34:17 - Traci  - Main System Launched
+
+07/13/2018 10:35:02 - Office - Main System Exited
+
+07/13/2018 10:36:27 - Arthur - Confirming Sales Contract #6085...
+Sales Contract #6085 has been CONFIRMED
+
+07/13/2018 10:37:21 - Arthur - Assigning EHF#s...
+EHF 16844 assigned to SC#6085
+
+07/13/2018 10:37:44 - Arthur - Confirming Sales Contract #6085...
+Sales Contract #6085 has been CONFIRMED
+
+07/13/2018 10:37:51 - Arthur - Confirming Sales Contract #6086...
+Sales Contract #6086 has been CONFIRMED
+
+07/13/2018 10:38:17 - Arthur - Assigning EHF#s...
+
+07/13/2018 10:38:52 - Arthur - Assigning EHF#s...
+
+07/13/2018 10:39:28 - Arthur - Assigning EHF#s...
+
+12/02/2018 08:24:28 - Patrick - Main System Launched
+
+12/02/2018 08:24:50 - Patrick - Creating New Order...
+(SC#6282)
+Order Created
+
+12/02/2018 08:24:52 - Patrick - Main System Exited
+
+12/02/2018 08:25:22 - Patrick - Main System Launched
+
+12/02/2018 08:25:30 - Patrick - Main System Launched
+
+12/02/2018 08:25:32 - Patrick - Main System Exited
+
+12/02/2018 08:25:50 - Patrick - Creating New Order...
+(SC#6283)
+Order Created
+
+12/02/2018 08:25:51 - Patrick - Main System Exited
+
+12/02/2018 08:26:04 - Patrick - Main System Launched
+
+12/02/2018 08:26:20 - Patrick - Confirming Sales Contract #6283...
+Sales Contract #6283 has been CONFIRMED
+
+12/02/2018 08:32:06 - Patrick - Main System Exited
+
+12/02/2018 08:32:18 - Patrick - Main System Launched
+
+12/02/2018 08:32:34 - Patrick - Creating New Order...
+(SC#6284)
+Order Created
+
+12/02/2018 08:32:35 - Patrick - Main System Exited
+
+12/02/2018 08:33:21 - Patrick - Main System Launched
+
+12/02/2018 08:33:29 - Patrick - Confirming Sales Contract #6284...
+Sales Contract #6284 has been CONFIRMED
+
+12/02/2018 08:34:02 - Patrick - Booking Sales Contract #6284...
+ERROR: BOOKING FAILED
+
+12/02/2018 08:34:43 - Patrick - Assigning EHF#s...
+
+12/02/2018 08:34:55 - Patrick - Assigning EHF#s...
+
+12/02/2018 08:35:01 - Patrick - Assigning EHF#s...
+
+12/02/2018 08:35:23 - Patrick - Assigning EHF#s...
+EHF 16785 assigned to SC#6284
+EHF#'s have been assigned.
+
+12/02/2018 08:36:11 - Patrick - Booking Sales Contract #6284...
+Sales Contract #6284 is now in BOOKING
+
+12/02/2018 08:36:36 - Patrick - Creating CI-PL for Sales Contract #6284...
+CI-PL created for Sales Contract #6284
+
+12/02/2018 08:37:23 - Patrick - Searching Distribution Log...
+Found 0 results
+
+12/02/2018 08:37:28 - Patrick - Searching Distribution Log...
+Found 0 results
+
+12/02/2018 08:38:38 - Patrick - Main System Launched
+
+12/02/2018 08:38:46 - Patrick - Listing Orders...
+
+12/02/2018 08:38:48 - Patrick - Listing Orders...
+
+12/02/2018 08:38:59 - Patrick - Main System Exited
+
+12/02/2018 08:39:18 - Patrick - Attempting to add 1 models for SC#6284...
+
+12/02/2018 08:39:55 - Patrick - Main System Exited
+
+12/02/2018 08:48:06 - Patrick - Main System Launched
+
+12/02/2018 08:53:44 - Patrick - Main System Exited

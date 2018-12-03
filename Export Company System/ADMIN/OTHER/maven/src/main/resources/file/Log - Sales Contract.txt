@@ -1,0 +1,26 @@
+06/05/2018 09:43:12 - Office - SC#: 6000 - Client: Customer 1 - Factory: FACTORY 2 - Model: 14300-19180 - Updated: FALSE            CANCELED
+
+06/05/2018 10:17:19 - Office - SC#: 6001 - Client: Customer 1 - Factory: FACTORY 2 - Model: 17720-87700 - Updated: FALSE            CANCELED
+
+06/05/2018 09:01:53 - Arthur - SC#: 6002 - Client: Customer 3 - Factory: FACTORY 1 - Model: mixed - Updated: TRUE            BOOKING - EHF#: 16778
+
+06/05/2018 14:09:55 - Traci  - SC#: 6003 - Client: Customer 1 - Factory: FACTORY 1 - Model: 21455 - Updated: FALSE            BOOKING - EHF#: 16793
+
+06/05/2018 14:49:27 - Traci  - SC#: 6004 - Client: Customer 1 - Factory: FACTORY 1 - Model: 20855E - Updated: FALSE            CONFIRMED - EHF#: 16792
+
+06/06/2018 07:50:56 - Arthur - SC#: 6005 - Client: Customer 3 - Factory: FACTORY 2 - Model: mixed - Updated: TRUE            SHIPPED - EHF#: 16797
+
+06/06/2018 08:02:21 - Arthur - SC#: 6006 - Client: Customer 3 - Factory: FACTORY 2 - Model: mixed - Updated: TRUE            SHIPPED - EHF#: 16798
+
+06/06/2018 12:44:19 - Office - SC#: 6007 - Client: Customer 4 - Factory: FACTORY 3 - Model: MIXED - Updated: TRUE            BOOKING - EHF#: 16784
+
+06/07/2018 10:13:04 - Traci  - SC#: 5405 - Client: Customer 4 - Factory: FACTORY 4 - Model: Mixed - Updated: FALSE            BOOKING - EHF#: 16780
+
+06/07/2018 13:56:12 - Traci  - SC#: 5285 - Client: Customer 1 - Factory: FACTORY 1 - Model: B5069-PR - Updated: FALSE            BOOKING - EHF#: 16783
+
+06/07/2018 14:14:25 - Traci  - SC#: 5289 - Client: Customer 1 - Factory: FACTORY 1 - Model: Mixed - Updated: FALSE            BOOKING - EHF#: 16781
+
+06/07/2018 14:25:58 - Traci  - SC#: 6008 - Client: Customer 1 - Factory: FACTORY 1 - Model: Mixed - Updated: FALSE            BOOKING - EHF#: 16782
+
+12/02/2018 20:32:35 - Patrick - SC#: 6284 - Client: Customer 1 - Factory: FACTORY 1 - Model: 123 - Updated: FALSE            BOOKING - EHF#: 16785
+
