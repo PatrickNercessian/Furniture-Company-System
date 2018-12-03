@@ -20,6 +20,7 @@ This system includes a Main System with the following features (and many more su
   - Employee Addition/Removal from System
 
   Miscellaneous Features:
+    
     - Error Reporting
     - Accounting for possible losses of connection and working accordingly
     - Master Log of All System Events
