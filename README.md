@@ -19,12 +19,18 @@ This system includes a Main System with the following features (and many more su
   Distribution Log: Search through all models from all orders based on any combination of search criteria
   
   Mass Email Leads: Mass Email potential customer leads with built in Email capabilities.
- 
+  
+  -
  
  This system also includes an Admin System with the following features (and many more sub-features):
+  
   Reminder Email System: Sends emails to employees with relevant information to their orders and other reminders
+  
   Order Log: Systematically updates massive Excel sheet with all important information from every order
+  
   Employee Addition/Removal from System
+  
+  -
   
   Miscellaneous Features:
     Error Reporting
